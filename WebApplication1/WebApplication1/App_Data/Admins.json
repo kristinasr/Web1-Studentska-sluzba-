@@ -1,0 +1,14 @@
+[
+  {
+    "$id": "1",
+    "id": 1,
+    "username": "admin",
+    "password": "admin",
+    "firstName": "admin",
+    "lastName": "admin",
+    "dateOfBirth": "1980-10-22T21:22:20",
+    "email": "admin@admin.com",
+    "role": 2,
+    "deleted": false
+  }
+]

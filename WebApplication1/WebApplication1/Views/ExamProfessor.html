@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="../Scripts/ExamProfessor.js" type="text/javascript"></script>
+    <script src="../Scripts/Navbar.js" type="text/javascript"></script>
+    <link rel="stylesheet" type="text/css" href="../Content/Site.css" />
+</head>
+<body>
+    <nav>
+        <a id="nav-students" href="Students.html">Studenti</a>
+        <a id="nav-ispiti-prof" href="ExamProfessor.html">Ispiti</a>
+        <a id="nav-ispiti-stud" href="ExamStudent.html">Ispiti</a>
+        <a id="nav-login" href="Index.html">Prijava</a>
+        <a id="nav-logout" href="#">Odjava</a>
+    </nav>
+
+    <h1>Ispiti</h1>
+
+    <button id="createExamButton">Kreiraj ispit</button>
+    <table id="searchTable">
+        <tbody>
+            <tr>
+                <td><input type="text" id="search-session" placeholder="Ispitni rok" /></td>
+                <td><input type="text" id="search-subject" placeholder="Naziv predmeta" /></td>
+                <td><input type="text" id="search-firstname" placeholder="Ime studenta" /></td>
+                <td><input type="text" id="search-lastname" placeholder="Prezime studenta" /></td>
+                <td><input type="text" id="search-index" placeholder="Broj indexa" /></td>
+                <td><button id="search-button">Pretrazi</button></td>
+            </tr>
+        </tbody>
+    </table>
+    <table id="examResultTable">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Student</th>
+                <th>Index</th>
+                <th>Naziv ispita</th>
+                <th>Naziv roka</th>
+                <th>Ocena</th>
+                <th>Pregledano</th>
+                <th>Akcije</th>
+            </tr>
+        </thead>
+        <tbody>
+           
+        </tbody>
+    </table>
+
+    <div id="reviewModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Ocenjivanje</h2>
+            <form id="reviewForm">
+                <label for="grade">Ocena:</label>
+                <input type="text" id="grade" name="grade" min="1" max="10" required><br>
+                <input type="submit" value="Prihvati">
+            </form>
+        </div>
+    </div>
+    <div id="createExamModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Napravi ispit</h2>
+            <form id="examForm">
+                <label for="subject">Predmet:</label>
+                <select id="subject" name="subject" required>
+                    <option value="">Izaberi predmet</option>
+                </select><br>
+                <label for="examDateTime">Datum i vreme:</label>
+                <input type="datetime-local" id="examDateTime" name="examDateTime" required><br>
+                <label for="classroomName">Ucionica:</label>
+                <input type="text" id="classroomName" name="classroomName" required><br>
+                <label for="examSessionName">Naziv roka:</label>
+                <input type="text" id="examSessionName" name="examSessionName" required><br>
+                <input type="submit" value="Prihvati">
+            </form>
+        </div>
+    </div>
+</body>
+</html>

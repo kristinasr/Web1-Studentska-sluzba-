@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\My Computer\\Desktop\\TRECA GODINA\\PROJEKAT IZ WEBA\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26ADAF-8965-4BCF-9EF9-136CC538824B}|WebApplication1\\WebApplication1.csproj|c:\\users\\my computer\\desktop\\treca godina\\projekat iz weba\\webapplication1\\webapplication1\\views\\students.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C26ADAF-8965-4BCF-9EF9-136CC538824B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\students.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26ADAF-8965-4BCF-9EF9-136CC538824B}|WebApplication1\\WebApplication1.csproj|c:\\users\\my computer\\desktop\\treca godina\\projekat iz weba\\webapplication1\\webapplication1\\app_start\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C26ADAF-8965-4BCF-9EF9-136CC538824B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\app_start\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26ADAF-8965-4BCF-9EF9-136CC538824B}|WebApplication1\\WebApplication1.csproj|c:\\users\\my computer\\desktop\\treca godina\\projekat iz weba\\webapplication1\\webapplication1\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C26ADAF-8965-4BCF-9EF9-136CC538824B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26ADAF-8965-4BCF-9EF9-136CC538824B}|WebApplication1\\WebApplication1.csproj|c:\\users\\my computer\\desktop\\treca godina\\projekat iz weba\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C26ADAF-8965-4BCF-9EF9-136CC538824B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26ADAF-8965-4BCF-9EF9-136CC538824B}|WebApplication1\\WebApplication1.csproj|c:\\users\\my computer\\desktop\\treca godina\\projekat iz weba\\webapplication1\\webapplication1\\views\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C26ADAF-8965-4BCF-9EF9-136CC538824B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26ADAF-8965-4BCF-9EF9-136CC538824B}|WebApplication1\\WebApplication1.csproj|c:\\users\\my computer\\desktop\\treca godina\\projekat iz weba\\webapplication1\\webapplication1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C26ADAF-8965-4BCF-9EF9-136CC538824B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26ADAF-8965-4BCF-9EF9-136CC538824B}|WebApplication1\\WebApplication1.csproj|c:\\users\\my computer\\desktop\\treca godina\\projekat iz weba\\webapplication1\\webapplication1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C26ADAF-8965-4BCF-9EF9-136CC538824B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26ADAF-8965-4BCF-9EF9-136CC538824B}|WebApplication1\\WebApplication1.csproj|c:\\users\\my computer\\desktop\\treca godina\\projekat iz weba\\webapplication1\\webapplication1\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C26ADAF-8965-4BCF-9EF9-136CC538824B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C26ADAF-8965-4BCF-9EF9-136CC538824B}|WebApplication1\\WebApplication1.csproj|c:\\users\\my computer\\desktop\\treca godina\\projekat iz weba\\webapplication1\\webapplication1\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C26ADAF-8965-4BCF-9EF9-136CC538824B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\TRECA GODINA\\PROJEKAT IZ WEBA\\WebApplication1\\WebApplication1\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\TRECA GODINA\\PROJEKAT IZ WEBA\\WebApplication1\\WebApplication1\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\BaseApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:52:37.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\TRECA GODINA\\PROJEKAT IZ WEBA\\WebApplication1\\WebApplication1\\App_Start\\DB.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\App_Start\\DB.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\TRECA GODINA\\PROJEKAT IZ WEBA\\WebApplication1\\WebApplication1\\App_Start\\DB.cs",
+              "RelativeToolTip": "WebApplication1\\App_Start\\DB.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:29:14.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Students.html",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\TRECA GODINA\\PROJEKAT IZ WEBA\\WebApplication1\\WebApplication1\\Views\\Students.html",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Students.html",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\TRECA GODINA\\PROJEKAT IZ WEBA\\WebApplication1\\WebApplication1\\Views\\Students.html",
+              "RelativeToolTip": "WebApplication1\\Views\\Students.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-06T20:52:45.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\TRECA GODINA\\PROJEKAT IZ WEBA\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\TRECA GODINA\\PROJEKAT IZ WEBA\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:31:51.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.html",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\TRECA GODINA\\PROJEKAT IZ WEBA\\WebApplication1\\WebApplication1\\Views\\Index.html",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Index.html",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\TRECA GODINA\\PROJEKAT IZ WEBA\\WebApplication1\\WebApplication1\\Views\\Index.html",
+              "RelativeToolTip": "WebApplication1\\Views\\Index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-06T20:54:47.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\TRECA GODINA\\PROJEKAT IZ WEBA\\WebApplication1\\WebApplication1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\TRECA GODINA\\PROJEKAT IZ WEBA\\WebApplication1\\WebApplication1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WebApplication1\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:29:22.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\TRECA GODINA\\PROJEKAT IZ WEBA\\WebApplication1\\WebApplication1\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\TRECA GODINA\\PROJEKAT IZ WEBA\\WebApplication1\\WebApplication1\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "WebApplication1\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:29:20.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\TRECA GODINA\\PROJEKAT IZ WEBA\\WebApplication1\\WebApplication1\\Global.asax.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\TRECA GODINA\\PROJEKAT IZ WEBA\\WebApplication1\\WebApplication1\\Global.asax.cs",
+              "RelativeToolTip": "WebApplication1\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:28:49.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\TRECA GODINA\\PROJEKAT IZ WEBA\\WebApplication1\\WebApplication1\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\TRECA GODINA\\PROJEKAT IZ WEBA\\WebApplication1\\WebApplication1\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "WebApplication1\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:29:08.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

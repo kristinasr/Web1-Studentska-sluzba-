@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="../Scripts/Students.js" type="text/javascript"></script>
+    <script src="../Scripts/Navbar.js" type="text/javascript"></script>
+    <link rel="stylesheet" type="text/css" href="../Content/Site.css" />
+</head>
+<body>
+    <nav>
+        <a id="nav-students" href="Students.html">Studenti</a>
+        <a id="nav-ispiti-prof" href="ExamProfessor.html">Ispiti</a>
+        <a id="nav-ispiti-stud" href="ExamStudent.html">Ispiti</a>
+        <a id="nav-login" href="Index.html">Prijava</a>
+        <a id="nav-logout" href="#">Odjava</a>
+    </nav>
+    <h1>Studenti</h1>
+    <button id="createStudentButton">Novi student</button>
+    <table id="searchTable">
+        <tbody>
+            <tr>
+                <td><input type="text" id="search-firstname" placeholder="Ime" /></td>
+                <td><input type="text" id="search-lastname" placeholder="Prezime" /></td>
+                <td><input type="text" id="search-index" placeholder="Broj indexa" /></td>
+                <td><button id="search-button">Pretrazi</button></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div id="student-table-div">
+        <table id="studentTable">
+            <thead>
+                <tr>
+                    <th>Korisnicko ime:</th>
+                    <th>Indeks</th>
+                    <th>Ime</th>
+                    <th>Prezime</th>
+                    <th>Datum rodjenja</th>
+                    <th>Email</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Table rows will be populated dynamically using JavaScript -->
+            </tbody>
+        </table>
+    </div>
+
+    <div id="editStudentModal" class="modal">
+        <div class="modal-content">
+            <h2>Edit Student</h2>
+            <form id="editStudentForm">
+                <input type="hidden" id="editUsername" name="username">
+                <label for="editFirstName">Ime:</label>
+                <input type="text" id="editFirstName" name="firstName"><br>
+                <label for="editLastName">Prezime:</label>
+                <input type="text" id="editLastName" name="lastName"><br>
+                <label for="editDateOfBirth">Datum rodjenja:</label>
+                <input type="date" id="editDateOfBirth" name="dateOfBirth"><br>
+                <label for="editEmail">Email:</label>
+                <input type="email" id="editEmail" name="email"><br>
+                <input type="submit" value="Izmeni studenta">
+            </form>
+        </div>
+    </div>
+    <div id="createStudent" class="modal">
+        <div class="modal-content">
+            <h2>Kreiraj studenta:</h2>
+            <form id="createStudentForm">
+                <label for="username">Username:</label>
+                <input type="text" id="username" name="username" required><br>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required><br>
+                <label for="index">Indeks:</label>
+                <input type="text" id="index" name="index" required><br>
+                <label for="firstName">Ime:</label>
+                <input type="text" id="firstName" name="firstName" required><br>
+                <label for="lastName">Prezime:</label>
+                <input type="text" id="lastName" name="lastName" required><br>
+                <label for="dateOfBirth">Datum rodjenja:</label>
+                <input type="date" id="dateOfBirth" name="dateOfBirth" required><br>
+                <label for="password">Lozinka:</label>
+                <input type="password" id="password" name="password" required><br>
+                <input type="submit" value="Kreiraj">
+            </form>
+        </div>
+    </div>
+</body>
+</html>

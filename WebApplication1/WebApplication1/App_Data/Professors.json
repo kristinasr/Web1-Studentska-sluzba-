@@ -1,0 +1,84 @@
+[
+  {
+    "$id": "1",
+    "subjects": [
+      "Web1",
+      "Web2",
+      "Baze Podataka 1"
+    ],
+    "taughtExams": [
+      {
+        "$id": "2",
+        "id": 1,
+        "professor": {
+          "$ref": "1"
+        },
+        "subject": "Web1",
+        "examDateTime": "2024-04-04T03:33:00",
+        "classroomName": "3",
+        "examSessionName": "Avgust"
+      },
+      {
+        "$id": "3",
+        "id": 2,
+        "professor": {
+          "$ref": "1"
+        },
+        "subject": "Web2",
+        "examDateTime": "2025-06-06T05:05:00",
+        "classroomName": "5",
+        "examSessionName": "Avgust"
+      },
+      {
+        "$id": "4",
+        "id": 3,
+        "professor": {
+          "$ref": "1"
+        },
+        "subject": "Web1",
+        "examDateTime": "2023-08-31T15:51:00",
+        "classroomName": "1",
+        "examSessionName": "Avgust"
+      },
+      {
+        "$id": "5",
+        "id": 4,
+        "professor": {
+          "$ref": "1"
+        },
+        "subject": "Baze Podataka 1",
+        "examDateTime": "2023-11-11T11:11:00",
+        "classroomName": "s1",
+        "examSessionName": "Septembar"
+      }
+    ],
+    "id": 2,
+    "username": "profesor",
+    "password": "profesor",
+    "firstName": "Janko",
+    "lastName": "Jankovic",
+    "dateOfBirth": "2000-10-22T21:22:20",
+    "email": "profesor@profesor.com",
+    "role": 1,
+    "deleted": false
+  },
+  {
+    "$id": "6",
+    "subjects": [
+      "Web1",
+      "Web2",
+      "Baze Podataka 1",
+      "Baze Podataka 2"
+    ],
+    "taughtExams": [],
+    "id": 2,
+    "username": "prof",
+    "password": "prof",
+    "firstName": "Sima",
+    "lastName": "Simic",
+    "dateOfBirth": "2000-10-22T21:22:20",
+    "email": "sima@sima.com",
+    "role": 1,
+    "deleted": false
+  }
+]

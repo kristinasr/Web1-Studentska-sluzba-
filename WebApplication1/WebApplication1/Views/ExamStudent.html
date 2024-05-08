@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="../Scripts/ExamStudent.js" type="text/javascript"></script>
+    <script src="../Scripts/Navbar.js" type="text/javascript"></script>
+    <link rel="stylesheet" type="text/css" href="../Content/Site.css" />
+</head>
+<body>
+    <nav>
+        <a id="nav-students" href="Students.html">Studenti</a>
+        <a id="nav-ispiti-prof" href="ExamProfessor.html">Ispiti</a>
+        <a id="nav-ispiti-stud" href="ExamStudent.html">Ispiti</a>
+        <a id="nav-login" href="Index.html">Prijava</a>
+        <a id="nav-logout" href="#">Odjava</a>
+    </nav>
+
+    <h1>Ispiti</h1>
+    <h2>Predstojeci ispiti</h2>
+    <table id="examTable">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Profesor</th>
+                <th>Predmet</th>
+                <th>Datum i vreme</th>
+                <th>Ucionica</th>
+                <th>Rok</th>
+                <th>Akcija</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+    <h2>Rezultati ispita</h2>
+    <table id="searchTable">
+        <tbody>
+            <tr>
+                <td><input type="text" id="search-session" placeholder="Ispitni rok" /></td>
+                <td><input type="text" id="search-subject" placeholder="Naziv predmeta" /></td>
+                <td><input type="text" id="search-grade" placeholder="Ocena" /></td>
+                <td><button id="search-button">Pretrazi</button></td>
+            </tr>
+        </tbody>
+    </table>
+    <table id="examResultTable">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Naziv ispita</th>
+                <th>Rok</th>
+                <th>Ocena</th>
+                <th>Pregledano</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+
+</body>
+</html>
